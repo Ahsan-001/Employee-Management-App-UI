@@ -1,6 +1,6 @@
-# employeeapp
+# SCE International
 
-A new Flutter project.
+Employee Management App.
 
 ## Getting Started
 
